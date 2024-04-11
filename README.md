@@ -20,4 +20,4 @@
 4. CISM
 
 **Final Target Specialization:**
-CISSP
+1. CISSP
