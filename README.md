@@ -4,8 +4,9 @@
 2. CCNA (Optional)
 
 **Security Fundamentals:**
-1. CEH
-2. OSCP (Optional)
+1. CompTIA Security+
+2. CEH
+3. OSCP (Optional)
 
 **Cloud Security Certifications:**
 1. AZ 500
